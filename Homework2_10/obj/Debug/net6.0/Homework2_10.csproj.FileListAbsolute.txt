@@ -1,0 +1,15 @@
+D:\progstuff\csharp\Homework2_10\bin\Debug\net6.0\Homework2_10.exe
+D:\progstuff\csharp\Homework2_10\bin\Debug\net6.0\Homework2_10.deps.json
+D:\progstuff\csharp\Homework2_10\bin\Debug\net6.0\Homework2_10.runtimeconfig.json
+D:\progstuff\csharp\Homework2_10\bin\Debug\net6.0\Homework2_10.dll
+D:\progstuff\csharp\Homework2_10\bin\Debug\net6.0\Homework2_10.pdb
+D:\progstuff\csharp\Homework2_10\obj\Debug\net6.0\Homework2_10.csproj.AssemblyReference.cache
+D:\progstuff\csharp\Homework2_10\obj\Debug\net6.0\Homework2_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\progstuff\csharp\Homework2_10\obj\Debug\net6.0\Homework2_10.AssemblyInfoInputs.cache
+D:\progstuff\csharp\Homework2_10\obj\Debug\net6.0\Homework2_10.AssemblyInfo.cs
+D:\progstuff\csharp\Homework2_10\obj\Debug\net6.0\Homework2_10.csproj.CoreCompileInputs.cache
+D:\progstuff\csharp\Homework2_10\obj\Debug\net6.0\Homework2_10.dll
+D:\progstuff\csharp\Homework2_10\obj\Debug\net6.0\refint\Homework2_10.dll
+D:\progstuff\csharp\Homework2_10\obj\Debug\net6.0\Homework2_10.pdb
+D:\progstuff\csharp\Homework2_10\obj\Debug\net6.0\Homework2_10.genruntimeconfig.cache
+D:\progstuff\csharp\Homework2_10\obj\Debug\net6.0\ref\Homework2_10.dll
