@@ -1,0 +1,15 @@
+D:\progstuff\csharp\Homework3_19\bin\Debug\net6.0\Homework3_19.exe
+D:\progstuff\csharp\Homework3_19\bin\Debug\net6.0\Homework3_19.deps.json
+D:\progstuff\csharp\Homework3_19\bin\Debug\net6.0\Homework3_19.runtimeconfig.json
+D:\progstuff\csharp\Homework3_19\bin\Debug\net6.0\Homework3_19.dll
+D:\progstuff\csharp\Homework3_19\bin\Debug\net6.0\Homework3_19.pdb
+D:\progstuff\csharp\Homework3_19\obj\Debug\net6.0\Homework3_19.csproj.AssemblyReference.cache
+D:\progstuff\csharp\Homework3_19\obj\Debug\net6.0\Homework3_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\progstuff\csharp\Homework3_19\obj\Debug\net6.0\Homework3_19.AssemblyInfoInputs.cache
+D:\progstuff\csharp\Homework3_19\obj\Debug\net6.0\Homework3_19.AssemblyInfo.cs
+D:\progstuff\csharp\Homework3_19\obj\Debug\net6.0\Homework3_19.csproj.CoreCompileInputs.cache
+D:\progstuff\csharp\Homework3_19\obj\Debug\net6.0\Homework3_19.dll
+D:\progstuff\csharp\Homework3_19\obj\Debug\net6.0\refint\Homework3_19.dll
+D:\progstuff\csharp\Homework3_19\obj\Debug\net6.0\Homework3_19.pdb
+D:\progstuff\csharp\Homework3_19\obj\Debug\net6.0\Homework3_19.genruntimeconfig.cache
+D:\progstuff\csharp\Homework3_19\obj\Debug\net6.0\ref\Homework3_19.dll
