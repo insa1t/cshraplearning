@@ -1,0 +1,15 @@
+D:\progstuff\csharp\Homework4_27\bin\Debug\net6.0\Homework4_27.exe
+D:\progstuff\csharp\Homework4_27\bin\Debug\net6.0\Homework4_27.deps.json
+D:\progstuff\csharp\Homework4_27\bin\Debug\net6.0\Homework4_27.runtimeconfig.json
+D:\progstuff\csharp\Homework4_27\bin\Debug\net6.0\Homework4_27.dll
+D:\progstuff\csharp\Homework4_27\bin\Debug\net6.0\Homework4_27.pdb
+D:\progstuff\csharp\Homework4_27\obj\Debug\net6.0\Homework4_27.csproj.AssemblyReference.cache
+D:\progstuff\csharp\Homework4_27\obj\Debug\net6.0\Homework4_27.GeneratedMSBuildEditorConfig.editorconfig
+D:\progstuff\csharp\Homework4_27\obj\Debug\net6.0\Homework4_27.AssemblyInfoInputs.cache
+D:\progstuff\csharp\Homework4_27\obj\Debug\net6.0\Homework4_27.AssemblyInfo.cs
+D:\progstuff\csharp\Homework4_27\obj\Debug\net6.0\Homework4_27.csproj.CoreCompileInputs.cache
+D:\progstuff\csharp\Homework4_27\obj\Debug\net6.0\Homework4_27.dll
+D:\progstuff\csharp\Homework4_27\obj\Debug\net6.0\refint\Homework4_27.dll
+D:\progstuff\csharp\Homework4_27\obj\Debug\net6.0\Homework4_27.pdb
+D:\progstuff\csharp\Homework4_27\obj\Debug\net6.0\Homework4_27.genruntimeconfig.cache
+D:\progstuff\csharp\Homework4_27\obj\Debug\net6.0\ref\Homework4_27.dll
