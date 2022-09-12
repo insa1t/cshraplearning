@@ -1,0 +1,15 @@
+D:\progstuff\csharp\Homework6_43\bin\Debug\net6.0\Homework6_43.exe
+D:\progstuff\csharp\Homework6_43\bin\Debug\net6.0\Homework6_43.deps.json
+D:\progstuff\csharp\Homework6_43\bin\Debug\net6.0\Homework6_43.runtimeconfig.json
+D:\progstuff\csharp\Homework6_43\bin\Debug\net6.0\Homework6_43.dll
+D:\progstuff\csharp\Homework6_43\bin\Debug\net6.0\Homework6_43.pdb
+D:\progstuff\csharp\Homework6_43\obj\Debug\net6.0\Homework6_43.csproj.AssemblyReference.cache
+D:\progstuff\csharp\Homework6_43\obj\Debug\net6.0\Homework6_43.GeneratedMSBuildEditorConfig.editorconfig
+D:\progstuff\csharp\Homework6_43\obj\Debug\net6.0\Homework6_43.AssemblyInfoInputs.cache
+D:\progstuff\csharp\Homework6_43\obj\Debug\net6.0\Homework6_43.AssemblyInfo.cs
+D:\progstuff\csharp\Homework6_43\obj\Debug\net6.0\Homework6_43.csproj.CoreCompileInputs.cache
+D:\progstuff\csharp\Homework6_43\obj\Debug\net6.0\Homework6_43.dll
+D:\progstuff\csharp\Homework6_43\obj\Debug\net6.0\refint\Homework6_43.dll
+D:\progstuff\csharp\Homework6_43\obj\Debug\net6.0\Homework6_43.pdb
+D:\progstuff\csharp\Homework6_43\obj\Debug\net6.0\Homework6_43.genruntimeconfig.cache
+D:\progstuff\csharp\Homework6_43\obj\Debug\net6.0\ref\Homework6_43.dll
