@@ -1,0 +1,15 @@
+D:\progstuff\csharp\Homework5_38\bin\Debug\net6.0\Homework5_38.exe
+D:\progstuff\csharp\Homework5_38\bin\Debug\net6.0\Homework5_38.deps.json
+D:\progstuff\csharp\Homework5_38\bin\Debug\net6.0\Homework5_38.runtimeconfig.json
+D:\progstuff\csharp\Homework5_38\bin\Debug\net6.0\Homework5_38.dll
+D:\progstuff\csharp\Homework5_38\bin\Debug\net6.0\Homework5_38.pdb
+D:\progstuff\csharp\Homework5_38\obj\Debug\net6.0\Homework5_38.csproj.AssemblyReference.cache
+D:\progstuff\csharp\Homework5_38\obj\Debug\net6.0\Homework5_38.GeneratedMSBuildEditorConfig.editorconfig
+D:\progstuff\csharp\Homework5_38\obj\Debug\net6.0\Homework5_38.AssemblyInfoInputs.cache
+D:\progstuff\csharp\Homework5_38\obj\Debug\net6.0\Homework5_38.AssemblyInfo.cs
+D:\progstuff\csharp\Homework5_38\obj\Debug\net6.0\Homework5_38.csproj.CoreCompileInputs.cache
+D:\progstuff\csharp\Homework5_38\obj\Debug\net6.0\Homework5_38.dll
+D:\progstuff\csharp\Homework5_38\obj\Debug\net6.0\refint\Homework5_38.dll
+D:\progstuff\csharp\Homework5_38\obj\Debug\net6.0\Homework5_38.pdb
+D:\progstuff\csharp\Homework5_38\obj\Debug\net6.0\Homework5_38.genruntimeconfig.cache
+D:\progstuff\csharp\Homework5_38\obj\Debug\net6.0\ref\Homework5_38.dll
