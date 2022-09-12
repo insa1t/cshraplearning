@@ -1,0 +1,15 @@
+D:\progstuff\csharp\Homework7_50\bin\Debug\net6.0\Homework7_50.exe
+D:\progstuff\csharp\Homework7_50\bin\Debug\net6.0\Homework7_50.deps.json
+D:\progstuff\csharp\Homework7_50\bin\Debug\net6.0\Homework7_50.runtimeconfig.json
+D:\progstuff\csharp\Homework7_50\bin\Debug\net6.0\Homework7_50.dll
+D:\progstuff\csharp\Homework7_50\bin\Debug\net6.0\Homework7_50.pdb
+D:\progstuff\csharp\Homework7_50\obj\Debug\net6.0\Homework7_50.csproj.AssemblyReference.cache
+D:\progstuff\csharp\Homework7_50\obj\Debug\net6.0\Homework7_50.GeneratedMSBuildEditorConfig.editorconfig
+D:\progstuff\csharp\Homework7_50\obj\Debug\net6.0\Homework7_50.AssemblyInfoInputs.cache
+D:\progstuff\csharp\Homework7_50\obj\Debug\net6.0\Homework7_50.AssemblyInfo.cs
+D:\progstuff\csharp\Homework7_50\obj\Debug\net6.0\Homework7_50.csproj.CoreCompileInputs.cache
+D:\progstuff\csharp\Homework7_50\obj\Debug\net6.0\Homework7_50.dll
+D:\progstuff\csharp\Homework7_50\obj\Debug\net6.0\refint\Homework7_50.dll
+D:\progstuff\csharp\Homework7_50\obj\Debug\net6.0\Homework7_50.pdb
+D:\progstuff\csharp\Homework7_50\obj\Debug\net6.0\Homework7_50.genruntimeconfig.cache
+D:\progstuff\csharp\Homework7_50\obj\Debug\net6.0\ref\Homework7_50.dll
