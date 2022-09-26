@@ -1,0 +1,15 @@
+D:\progstuff\csharp\Homework8_66\bin\Debug\net6.0\Homework8_66.exe
+D:\progstuff\csharp\Homework8_66\bin\Debug\net6.0\Homework8_66.deps.json
+D:\progstuff\csharp\Homework8_66\bin\Debug\net6.0\Homework8_66.runtimeconfig.json
+D:\progstuff\csharp\Homework8_66\bin\Debug\net6.0\Homework8_66.dll
+D:\progstuff\csharp\Homework8_66\bin\Debug\net6.0\Homework8_66.pdb
+D:\progstuff\csharp\Homework8_66\obj\Debug\net6.0\Homework8_66.csproj.AssemblyReference.cache
+D:\progstuff\csharp\Homework8_66\obj\Debug\net6.0\Homework8_66.GeneratedMSBuildEditorConfig.editorconfig
+D:\progstuff\csharp\Homework8_66\obj\Debug\net6.0\Homework8_66.AssemblyInfoInputs.cache
+D:\progstuff\csharp\Homework8_66\obj\Debug\net6.0\Homework8_66.AssemblyInfo.cs
+D:\progstuff\csharp\Homework8_66\obj\Debug\net6.0\Homework8_66.csproj.CoreCompileInputs.cache
+D:\progstuff\csharp\Homework8_66\obj\Debug\net6.0\Homework8_66.dll
+D:\progstuff\csharp\Homework8_66\obj\Debug\net6.0\refint\Homework8_66.dll
+D:\progstuff\csharp\Homework8_66\obj\Debug\net6.0\Homework8_66.pdb
+D:\progstuff\csharp\Homework8_66\obj\Debug\net6.0\Homework8_66.genruntimeconfig.cache
+D:\progstuff\csharp\Homework8_66\obj\Debug\net6.0\ref\Homework8_66.dll
